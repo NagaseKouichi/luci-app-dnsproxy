@@ -1,0 +1,11 @@
+{
+	"luci-app-dnsproxy": {
+		"description": "Grant access to LuCI DnsProxy",
+		"read": {
+			"uci": [ "dnsproxy" ]
+		},
+		"write": {
+			"uci": [ "dnsproxy" ]
+		}
+	}
+}

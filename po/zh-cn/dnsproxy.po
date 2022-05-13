@@ -1,0 +1,71 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\n"
+
+msgid "DnsProxy is a Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support."
+msgstr "DnsProxy 是一个支持 DoH、DoT、DoQ 和 DNSCrypt 的简单 DNS 代理。"
+
+msgid "General Setting"
+msgstr "基本设置"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Listen Address"
+msgstr "监听地址"
+
+msgid "Listen Port"
+msgstr "监听端口"
+
+msgid "Parallel Querie"
+msgstr "并行请求"
+
+msgid "If enabled, parallel queries to all configured upstream servers are enabled."
+msgstr "如果启用，会并行请求设置的所有上游服务器。"
+
+msgid "Return Fastest IP"
+msgstr "返回最快 IP"
+
+msgid "Respond to A or AAAA requests only with the fastest IP address."
+msgstr "对 A 和 AAAA 请求响应最快速的 IP 地址。"
+
+msgid "Disable Ipv6 Reply"
+msgstr "禁用 Ipv6 响应"
+
+msgid "EDNS Setting"
+msgstr "EDNS 设置"
+
+msgid "Enable EDNS"
+msgstr "启用 EDNS"
+
+msgid "EDNS Client Address"
+msgstr "EDNS 客户端地址"
+
+msgid "Set this if your IP address is not a public IP."
+msgstr "如果你的 IP 地址不是公网 IP，则设置此项"
+
+msgid "DNS Server Setting"
+msgstr "DNS 服务器设置"
+
+msgid "DNS Upstreams"
+msgstr "上游 DNS 服务器"
+
+msgid "DNS server Upstreams, support DoH, DoT, DoQ and DNSCrypt."
+msgstr "上游 DNS 服务器，支持 DoH、DoT、DoQ、DNSCrypt。"
+
+msgid "Bootstrap DNS"
+msgstr "引导 DNS 服务器"
+
+msgid "Bootstrap DNS for DoH and DoT."
+msgstr "用于解析 DoH 和 DoT 服务器的引导 DNS 服务器。"
+
+msgid "Fallback DNS"
+msgstr "回落 DNS 服务器"
+
+msgid "Fallback resolvers to use when upstreams are unavailable."
+msgstr "当上游 DNS 服务器不可用时使用的 DNS 服务器。"
+
+msgid "NOT RUNNING"
+msgstr "未运行"
+
+msgid "RUNNING"
+msgstr "运行中"
