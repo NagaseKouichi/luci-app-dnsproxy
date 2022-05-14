@@ -40,8 +40,8 @@ msgstr "启用 EDNS"
 msgid "EDNS Client Address"
 msgstr "EDNS 客户端地址"
 
-msgid "Set this if your IP address is not a public IP."
-msgstr "如果你的 IP 地址不是公网 IP，则设置此项"
+msgid "Set a public IP if your IP address is not a public IP."
+msgstr "如果你的 IP 地址不是公网 IP，则设置一个公网 IP"
 
 msgid "DNS Server Setting"
 msgstr "DNS 服务器设置"

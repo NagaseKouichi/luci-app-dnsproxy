@@ -42,7 +42,7 @@ s.anonymous   = true
 o = s:option(Flag, "enabled", translate("Enable EDNS"))
 o.rmempty     = false
 
-o = s:option(Value, "dns64_prefix", translate("EDNS Client Address"), translate("Set this if your IP address is not a public IP."))
+o = s:option(Value, "edns_addr", translate("EDNS Client Address"), translate("Set a public IP if your IP address is not a public IP."))
 o.datatype    = "ipaddr"
 o.rmempty     = true
 
